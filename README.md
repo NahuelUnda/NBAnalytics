@@ -8,7 +8,14 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# ¡Hola! 👋 DAA - Data Analytics Athletic 👨‍💻 Un Equipo de 5 Analistas de Datos | 📊 Nahuel - Ariel - Frank - Mariano - Carlos.
+# ¡Hola! 👋 DAA 
+AthletiQ Data Analytics 
+👨‍💻 Un Equipo de 5 Analistas de Datos | 📊 
+<p align="left"> <a href="https://github.com/NahuelUnda" target="blank">Nahuel Undabarrena </a> </p>
+<p align="left"> <a href="https://github.com/ardev-21" target="blank">Ariel Beese </a> </p>
+<p align="left"> <a href="https://github.com/frankmerlod" target="blank">Frank Merlo</a> </p>
+<p align="left"> <a href="https://github.com/MarianTaliercio" target="blank">Mariano Taliercio</a> </p>
+<p align="left"> <a href="https://github.com/CIPC1999" target="blank">Carlos Prieto </a> </p>
 
 <!--Intro start-->
 
