@@ -34,13 +34,12 @@ El propósito principal de este proyecto se enfoca en el ámbito del deporte pro
 - Python: Limpieza y análisis exploratorio de datos.
   - Pandas
   - NumPy
-  - Matplotlib / Seaborn
-  - pyodbc
+  - Matplotlib 
+  - Seaborn
   - sqlalchemy
   - os
   - shutil
   - time
-  - watchdog
   - dotenv
   - kaggle
 - Jupyter Notebook
