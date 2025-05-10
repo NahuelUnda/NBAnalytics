@@ -10,7 +10,7 @@
 
 # ¡Hola! 👋 DAA 
 AthletiQ Data Analytics 
-👨‍💻 Un Equipo de 5 Analistas de Datos | 📊 
+👨‍💻 Un Equipo de 5 Analistas de Datos 📊 💻
 <p align="left"> <a href="https://github.com/NahuelUnda" target="blank">Nahuel Undabarrena </a> </p>
 <p align="left"> <a href="https://github.com/ardev-21" target="blank">Ariel Beese </a> </p>
 <p align="left"> <a href="https://github.com/frankmerlod" target="blank">Frank Merlo</a> </p>
